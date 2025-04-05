@@ -1,1 +1,1 @@
-# text_mining_project
+# Proyek penambangan text
